@@ -1,0 +1,55 @@
+  <View>
+        <Text style={{fontSize: 40, textAlign: 'center'}}>Name:</Text>
+        </View>
+      <View style={{backgroundColor: 'black', textAlign: 'center'}}>
+       <Text style={{textAlign: 'center', fontSize: 20, color: 'yellow', fontStyle: 'italic' }}>Usama Aman</Text> 
+      </View> 
+      <View style={{backgroundColor:'red', textAlign: 'center'}}>
+        <Text style={{fontSize: 40, textAlign: 'center',}}>City</Text>
+      </View>
+      <View >
+        <Text style={{fontStyle: 'italic', backgroundColor: 'black', color: 'yellow', textAlign: 'center', fontSize: 20}}>Alipur Chattha</Text>
+      </View>
+      <View style={{backgroundColor:'red', textAlign: 'center'}}>
+        <Text style={{fontSize: 40, textAlign: 'center'}}>Study</Text>
+      </View>
+      <View >
+        <Text style={{fontStyle: 'italic', backgroundColor: 'black',color: 'yellow', textAlign: 'center', fontSize: 20}}>BSCS</Text>
+      </View>
+
+      <View style={{backgroundColor:'red', textAlign: 'center'}}>
+        <Text style={{fontSize: 40, textAlign: 'center',}}>Contact:</Text>
+      </View>
+      <View >
+        <Text style={{fontStyle: 'italic', backgroundColor: 'black', color: 'yellow', textAlign: 'center', fontSize: 20}}>03081224772</Text>
+      </View>
+
+      <View style={{backgroundColor:'red', textAlign: 'center'}}>
+        <Text style={{fontSize: 40, textAlign: 'center'}}>Email:</Text>
+      </View>
+      <View >
+        <Text style={{fontStyle: 'italic', backgroundColor: 'black', color: 'yellow',  textAlign: 'center', fontSize: 20,}}>usamaman123@Gmail.com</Text>
+      </View>
+      
+      <View style={{backgroundColor:'red', textAlign: 'center'}}>
+        <Text style={{fontSize: 40, textAlign: 'center'}}>Experience:</Text>
+      </View>
+      <View >
+        <Text style={{fontStyle: 'italic', backgroundColor: 'black', color: 'yellow', textAlign: 'center', fontSize: 20,}}>Fresh</Text>
+      </View>
+      
+      <View style={{backgroundColor:'red', textAlign: 'center'}}>
+        <Text style={{fontSize: 40, textAlign: 'center'}}>Interest:</Text>
+      </View>
+      <View >
+        <Text style={{fontStyle: 'italic', backgroundColor: 'black', color: 'yellow', textAlign: 'center', fontSize: 20,}}>1.Gaming</Text>
+      </View>
+      <View >
+        <Text style={{fontStyle: 'italic', backgroundColor: 'black', color: 'yellow', textAlign: 'center', fontSize: 20,}}>2.Animation</Text>
+      </View>
+      <View >
+        <Text style={{fontStyle: 'italic', backgroundColor: 'black', color: 'yellow', textAlign: 'center', fontSize: 20,}}>3.Programming</Text>
+      </View>
+      
+      
+        
